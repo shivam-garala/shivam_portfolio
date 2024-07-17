@@ -14,7 +14,7 @@ const ContactForm = () => {
           <Col className="d-flex justify-content-center align-self-center flex-wrap">
             <div className="m-2">
               <a
-                href="https://drive.google.com/file/d/1gfEuNxeVDy6pAAMD546-QbvYbB-bB4EI/view?usp=drive_link"
+                href="https://drive.google.com/file/d/1xn2YLYUGDevXlKsrrcvXUph4Xx9VUspG/view?usp=sharing"
                 target="_blank"
                 rel="noopener noreferrer"
               >
